@@ -5,7 +5,7 @@
 Have a look!
 
 ### Install Guide
-These need to me installed PRIOR to the workshop.
+These need to be installed PRIOR to the workshop.
 
 #### Windows
 * [Git for Windows](https://git-for-windows.github.io/)
