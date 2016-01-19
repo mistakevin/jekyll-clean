@@ -24,6 +24,7 @@ These need to be installed PRIOR to the workshop.
 
 ### Github
 If you haven't already:
+
 1. Make an account on GitHub.
 2. Be sure to confirm your email.
 3. Create a repository named _"username".github.io_ (eg. _mistakevin.github.io_)
