@@ -1,4 +1,4 @@
-This is your `_layouts/` directory. This is where you put your "wrappers" that you would like to "extend". Let's look at an example.
+This is your `_layouts/` directory. Here you put your "wrappers" that you would like to "extend". Let's look at an example.
 
 In a layout called `_layouts/default.html`, you could have something like:
 ```html
@@ -11,7 +11,7 @@ In a layout called `_layouts/default.html`, you could have something like:
 </html>
 ```
 
-Then when you create a page, like `index.html`, you could put:
+Then when you create a page, like `index.html`, you could "extend" the "layout":
 
 ```html
 ---
