@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+{% for post in site.posts %}
+    <h5>{{ post.title }}</h5>
+    <h6>{{ post.date }}</h6>
+    {% for tag in post.categories %}
+        {{tag}}
+    {% endfor %}
+    {{ post.content }}
+{% endfor %}
